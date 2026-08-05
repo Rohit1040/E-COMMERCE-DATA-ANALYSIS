@@ -1,100 +1,112 @@
-# 🛒 E-Commerce Sales Dashboard (Power BI)
+# 🛒 E-Commerce Sales Dashboard | Power BI
+
+<p align="center">
+  <img src="Screenshot%202026-08-05%20235418.png" width="100%">
+</p>
 
 ## 📌 Project Overview
 
-This project is an interactive **E-Commerce Sales Dashboard** built using **Microsoft Power BI**. The dashboard provides key business insights into sales performance, profitability, product performance, regional analysis, and shipping trends. It helps stakeholders monitor KPIs and make data-driven decisions.
+This project is an **Interactive E-Commerce Sales Dashboard** built using **Microsoft Power BI**. It provides a comprehensive analysis of sales, profit, customer segments, product performance, and regional trends, helping businesses monitor KPIs and make data-driven decisions.
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
 - 📈 Year-to-Date (YTD) Sales Analysis
-- 💰 YTD Profit Tracking
-- 📦 YTD Quantity Sold
-- 📊 Profit Margin Analysis
-- 🏷️ Sales by Category
-- 🌍 Sales by Region
-- 🗺️ Sales by State (Map Visualization)
-- 🚚 Sales by Shipping Type
-- ⭐ Top 5 Best-Selling Products
-- 📉 Bottom 5 Lowest-Selling Products
-- 🎯 Customer Segment Filter (Consumer, Corporate, Home Office)
+- 💰 YTD Profit Analysis
+- 📦 Quantity Sold Analysis
+- 📊 Profit Margin Tracking
+- 🏷️ Category-wise Sales Analysis
+- 🌎 Region-wise Sales Distribution
+- 🗺️ State-wise Sales Map
+- 🚚 Shipping Mode Analysis
+- ⭐ Top 5 Best Selling Products
+- 📉 Bottom 5 Lowest Selling Products
+- 🎯 Interactive Customer Segment Filter
 
 ---
 
-## 📌 Key Performance Indicators (KPIs)
+# 📊 Dashboard Preview
 
-| KPI | Value |
-|------|--------|
-| YTD Sales | $2.06M |
-| YTD Profit | $233.68K |
-| YTD Quantity | 18.9K |
-| Profit Margin | 11.35% |
+## Consumer Segment
+
+<p align="center">
+<img src="Screenshot%202026-08-05%20235453.png" width="100%">
+</p>
 
 ---
 
-## 📂 Dashboard Insights
+## Corporate Segment
 
-### Sales by Category
-- Office Supplies contributes the highest sales.
-- Furniture shows moderate growth.
-- Technology maintains positive year-over-year performance.
+<p align="center">
+<img src="Screenshot%202026-08-05%20235506.png" width="100%">
+</p>
 
-### Regional Performance
-Sales are distributed across different regions:
-- East
-- West
+---
+
+## Home Office Segment
+
+<p align="center">
+<img src="Screenshot%202026-08-05%20235519.png" width="100%">
+</p>
+
+---
+
+# 📌 Dashboard KPIs
+
+| KPI | Description |
+|------|-------------|
+| 💵 YTD Sales | Total sales generated during the current year |
+| 💰 YTD Profit | Total profit earned |
+| 📦 YTD Quantity | Total products sold |
+| 📊 Profit Margin | Overall profitability percentage |
+
+---
+
+# 📈 Dashboard Analysis
+
+### Sales Performance
+- Year-to-Date Sales
+- Previous Year Comparison
+- Year-over-Year Growth
+
+### Product Performance
+- Top 5 Best Selling Products
+- Bottom 5 Lowest Selling Products
+
+### Category Analysis
+- Office Supplies
+- Technology
+- Furniture
+
+### Regional Analysis
 - Central
+- East
 - South
-
-### Product Analysis
-The dashboard highlights:
-- Top 5 Products by YTD Sales
-- Bottom 5 Products by YTD Sales
+- West
 
 ### Shipping Analysis
-Sales are categorized by shipping modes to understand customer delivery preferences.
+- Standard Class
+- Second Class
+- First Class
+- Same Day
 
 ---
 
-## 🛠 Tools & Technologies
+# 🛠 Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
-- DAX (Data Analysis Expressions)
+- DAX
 - Data Modeling
-- Interactive Visualizations
+- Data Visualization
+- Interactive Dashboard Design
 
 ---
 
-## 📈 Dashboard Components
+# 📂 Dataset
 
-- KPI Cards
-- Area Charts
-- Donut Charts
-- Bar Charts
-- Filled Map
-- Slicers
-- Tables
-- Conditional Formatting
-
----
-
-## 📊 Business Questions Answered
-
-- What is the current Year-to-Date Sales?
-- Which category generates the highest revenue?
-- Which products perform the best and worst?
-- Which region contributes the most sales?
-- How is profit changing over time?
-- Which shipping mode is most frequently used?
-- How do customer segments impact sales?
-
----
-
-## 📁 Dataset
-
-The dashboard is built using an E-Commerce Sales dataset containing information such as:
+The dataset contains:
 
 - Order Date
 - Customer Segment
@@ -103,46 +115,70 @@ The dashboard is built using an E-Commerce Sales dataset containing information 
 - Sales
 - Profit
 - Quantity
-- Region
 - State
+- Region
 - Shipping Mode
 
 ---
 
-## 📷 Dashboard Screenshot
+# 📁 Repository Structure
 
-<img src="dashboard.png" width="1000">
+```
+E-Commerce-Sales-Dashboard/
+│
+├── Dashboard.pbix
+├── Dataset.xlsx
+├── README.md
+├── overall-dashboard.png
+├── consumer-dashboard.png
+├── corporate-dashboard.png
+└── homeoffice-dashboard.png
+```
 
 ---
 
-## 📌 Skills Demonstrated
+# 🎯 Skills Demonstrated
 
 - Data Cleaning
-- Data Modeling
+- Power Query
 - DAX Measures
-- KPI Design
-- Business Intelligence
-- Data Visualization
+- Data Modeling
 - Dashboard Design
-- Interactive Reporting
+- Business Intelligence
+- KPI Reporting
+- Interactive Filtering
+- Data Visualization
 
 ---
 
-## 🎯 Learning Outcome
+# 📌 Business Questions Answered
 
-This project demonstrates the ability to:
+✔ Which category generates the highest revenue?
 
-- Transform raw sales data into actionable insights.
-- Build professional Power BI dashboards.
-- Create interactive reports using slicers and filters.
-- Analyze business performance using KPIs and visualizations.
+✔ Which customer segment contributes the most sales?
+
+✔ Which products are performing best?
+
+✔ Which products need improvement?
+
+✔ Which region has the highest sales?
+
+✔ Which shipping mode is most preferred?
+
+✔ What is the current YTD Profit Margin?
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Rohit Kumar**
 
-- GitHub: https://github.com/Rohit1040
+🎓 BCA Graduate
 
-## ⭐ If you found this project useful, don't forget to Star the repository!
+📊 Aspiring Data Analyst
+
+🔗 GitHub: https://github.com/Rohit1040
+
+---
+
+## ⭐ If you found this project helpful, please consider giving it a Star!
