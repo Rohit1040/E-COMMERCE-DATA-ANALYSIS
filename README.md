@@ -144,8 +144,5 @@ This project demonstrates the ability to:
 **Rohit Kumar**
 
 - GitHub: https://github.com/Rohit1040
-- LinkedIn: *(Add your LinkedIn profile here)*
-
----
 
 ## ⭐ If you found this project useful, don't forget to Star the repository!
