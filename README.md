@@ -95,13 +95,12 @@ This project is an **Interactive E-Commerce Sales Dashboard** built using **Micr
 
 # 🛠 Tools & Technologies
 
-- Microsoft Power BI
-- Power Query
+- SQL
+- Python
+- Pandas
+- Power BI
 - DAX
-- Data Modeling
-- Data Visualization
-- Interactive Dashboard Design
-
+- Excel
 ---
 
 # 📂 Dataset
